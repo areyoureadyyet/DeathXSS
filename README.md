@@ -12,4 +12,4 @@ Dangerous XSS (Cross Site Scripting) Payloads List !
 * NOTE
 # LINE 11, LINE 12 XSS Payload in payloads.txt needs a webhook site url to capture cookies of the current browser session.
 
-# LINE 13, LINE 14 XSS Payload in payloads.txt needs a webhook site url to capture cookies of the current browser session.
+# LINE 13, LINE 14 XSS Payload in payloads.txt needs a webhook site url to capture cookies of the current browser session and the login button id of the current webpage to perform the cookie stealing task by getting clicked ! (for Login Webpages).
